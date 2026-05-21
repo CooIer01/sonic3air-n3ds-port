@@ -1,6 +1,6 @@
 <h1 align="center">
 <img align="center" src="https://sonic3air.org/images/title_sonic3air.png" width="50%"><br>
-Sonic 3 A.I.R. · PSVita Port
+Sonic 3 A.I.R. · n3DS Port
 </h1>
 <p align="center">
   <a href="#setup-instructions-for-players">How to install</a> •
