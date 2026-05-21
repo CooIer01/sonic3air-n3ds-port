@@ -15,7 +15,7 @@ adding widescreen support, improved graphics and audio, and new gameplay
 features. It is designed to offer a superior playing experience on modern
 systems while requiring original game data to run. 
 
-This repository contains the PlayStation Vita port of Sonic 3 A.I.R. Consider
+This repository contains the New Nintendo 3DS port of Sonic 3 A.I.R. Consider
 this a "beta" release aimed at collecting player feedback. In the future, the
 port is planned to be merged upstream.
 
