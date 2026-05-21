@@ -38,7 +38,7 @@ prohibited.
 
 The original README can be found [here](https://github.com/Eukaryot/sonic3air).
 
-Setup Instructions (For Players)
+Setup Instructions (For Players) (DONT FOLLOW THIS IS FOR THE PS VITA THIS WILL BE REMOVED LATER!!!!!!!!)
 ----------------
 
 In order to properly install the game, you'll have to follow these steps
