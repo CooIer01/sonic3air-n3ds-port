@@ -1,0 +1,1 @@
+CREDITS TO kynex7510 for Glass AND https://wiki.libsdl.org/SDL2/README-n3ds for SDL2 (3DS)
